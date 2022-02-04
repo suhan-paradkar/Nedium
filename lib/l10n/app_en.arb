@@ -1,0 +1,23 @@
+{
+  "languageName": "English",
+  "appName": "Nedium",
+  "about": "About",
+  "settings": "Settings",
+  "editorsPicks": "Editors Picks",
+  "searchHint": "Search",
+  "language": "Language",
+  "openSourceLicenses": "Open Source Licenses",
+  "sourceCode": "Source Code",
+  "currentVersion": "Current version {version}",
+  "@currentVersion": {
+    "placeholders": {
+      "version": {
+        "type": "String",
+        "example": "v0.0.7"
+      }
+    }
+  },
+  "comments": "Comments",
+  "voters": "Voters",
+  "follow": "Follow"
+}

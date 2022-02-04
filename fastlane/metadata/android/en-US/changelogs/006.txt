@@ -1,0 +1,3 @@
+- Comments reading (including nested ones!)
+- See who vote on the post or on the comment (upvote).
+- Faster animations, and new primary color, blue!

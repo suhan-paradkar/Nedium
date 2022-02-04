@@ -1,0 +1,7 @@
+v0.0.7
+
+= Github gist is now supported!
+= Showing preview image for posts.
+= Browse tag's feed posts.
+= Caching by default for almost everything!
+= Image Viewer improved.

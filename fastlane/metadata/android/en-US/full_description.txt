@@ -1,3 +1,20 @@
-Simple app for reading Medium articles without limits.
+nedium has good content but the slowness and the annoying ads they show make you hate reading, right?
 
-Share any article link with this app and start reading :)
+Welcome 🎉
+You are in the right place
+
+This is an unofficial client for <a href="https://nedium.com">nedium</a>, that runs without any ads or anonying ads 😄
+
+=> ✨ Features:
+- Browse without an account.
+- Search for posts, users, tags.
+- Reading posts.
+- Browse users profiles.
+- Getting the Editor Picks posts.
+- Comments, voters, ...
+
+Help is very appreciated!
+Translations, code, Have an idea? Welcome to <a href="https://github.com/cloneconf/nedium/discussions">Discussions</a> :)
+
+Read, Grow and Enjoy ;)
+You can report issues <a href="https://github.com/cloneconf/nedium/">here</a>!
