@@ -1,17 +1,17 @@
 plugins {
     id 'com.android.application'
     id 'kotlin-android'
-    id("com.google.devtools.ksp") version "1.5.31-1.0.0"
+    id("com.google.devtools.ksp") version "1.6.21-1.0.5"
     id("com.apollographql.apollo").version("2.5.11")
 }
 
 android {
-    compileSdk 31
+    compileSdk 32
 
     defaultConfig {
         applicationId "gh.cloneconf.nedium"
         minSdk 21
-        targetSdk 31
+        targetSdk 32
         versionCode 3
         versionName "0.3"
 
@@ -39,7 +39,7 @@ android {
         compose true
     }
     composeOptions {
-        kotlinCompilerExtensionVersion '1.2.0'
+        kotlinCompilerExtensionVersion '1.2.0-beta03'
         //[deprecated] kotlinCompilerVersion '1.5.21'
     }
     packagingOptions {
